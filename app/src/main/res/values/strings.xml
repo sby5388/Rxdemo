@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rxdemo</string>
+    <string name="title_activity_download_image">DownloadImageActivity</string>
+</resources>
